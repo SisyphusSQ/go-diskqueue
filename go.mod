@@ -1,3 +1,3 @@
-module github.com/vinllen/go-diskqueue
+module github.com/SisyphusSQ/go-diskqueue
 
-go 1.13
+go 1.22
